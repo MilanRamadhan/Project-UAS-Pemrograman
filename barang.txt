@@ -1,0 +1,28 @@
+Nama Barang: chitato
+Harga: 5000
+Jumlah: 45
+
+Nama Barang: taro
+Harga: 1000
+Jumlah: 25
+
+Nama Barang: chetos
+Harga: 2000
+Jumlah: 20
+
+Nama Barang: lays
+Harga: 2000
+Jumlah: 10
+
+Nama Barang: pringles
+Harga: 10000
+Jumlah: 30
+
+Nama Barang: doritos
+Harga: 12000
+Jumlah: 35
+
+Nama Barang: qtela
+Harga: 2500
+Jumlah: 20
+
